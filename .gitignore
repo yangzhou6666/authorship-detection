@@ -35,3 +35,4 @@ parsed/*
 attribution/gitminer/out_code/*
 attribution/gitminer/out/*
 attribution/gitminer/data/exploded/*
+attribution/gitminer/__pycache__/*.pyc
